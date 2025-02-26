@@ -73,9 +73,9 @@ We are using 163 email as a test incicator of this project. 163 Mailbox is a fre
 
 We chose 163 email because its POP3 service is easy to access. 
 
-For Host, please the POP3 server:pop.163.com.
+For Host, we used the POP3 server:pop.163.com.
 
-For Username, please use:yydeng_0490@163.com, it's the eamil we used for this project.
+For Username, we used the email for this project .
 
 For password, please use the the third-party authorization password we got from the server:HIOQBGFNUIXFKZBZ.
 
